@@ -4,7 +4,7 @@ let topMargin = 0.3; // band lenght as 70% of screen height
 let sideMargin = 0.4; // margine from page borders
 let band_n = 22; // number of band divisions
 
-let w = 1000;
+let w = 1300;
 let h = 800;
 
 let leftStart = -sideMargin*w;
